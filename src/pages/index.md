@@ -1,16 +1,23 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/mariposa4.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Ana Maria Toledo
+image: /img/mariposa.jpg
+heading: Ana Maria Toledo
+subheading: Psychologist
 mainpitch:
-  title: Why Kaldi
+  title: About me
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Counsellor and Suicidologist. I provide holistic therapy services to
+    guidance you to reach your potential and help you get back on track. 
+
+
+    My approach is grounded in person-centred therapy, which seeks “an inbuilt
+    proclivity toward growth and fulfilment”.
+
+
+    My areas of interest include but no limited to Suicide Ideology and
+    thoughts, Grief and loss, anxiety, depression, trauma, attachment, life
+    adjustment, migration, relationships issues, stress.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
