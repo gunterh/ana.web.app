@@ -2,12 +2,14 @@
 templateKey: product-page
 title: Online Counselling
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Online Counselling with a conscience
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Online Counselling is a flexible and convenient way to access our counselling
+  services. Clients engage with their counsellor in “real time” whilst
+  maintaining the same level of privacy and confidentiality they would come to
+  expect during any face to face counselling, remote counselling online allows
+  for in-depth therapy by enabling clients to communicate online in real time
+  via a video and/or voice connection.
 intro:
   blurbs:
     - image: /img/coffee.png
