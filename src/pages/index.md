@@ -3,7 +3,7 @@ templateKey: index-page
 title: Ana Maria Toledo
 image: /img/mariposa.jpg
 heading: Ana Maria Toledo
-subheading: Psychologist
+subheading: Focus on the trajectory of your mental wellness
 mainpitch:
   title: About me
   description: >
