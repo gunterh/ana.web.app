@@ -2,9 +2,7 @@
 templateKey: about-page
 title: About Our Services
 ---
-### Online Counselling
-
-Online Counselling is a flexible and convenient way to access our counselling services. Clients engage with their counsellor in “real time” whilst maintaining the same level of privacy and confidentiality they would come to expect during any face to face counselling, remote counselling online allows for in-depth therapy by enabling clients to communicate online in real time via a video and/or voice connection.
+### 
 
 ### This Mode of Counselling is Suitable for Those Who
 
@@ -15,14 +13,23 @@ Online Counselling is a flexible and convenient way to access our counselling se
 
 ### How to Get Started
 
-Getting started with an online counselling appointment is easy. Just follow these 3 simple steps!Your Online Counselling appointments should be scheduled through our website in the same way a traditional appointment is booked, choosing your ideal time and day accordantly with our schedule availability.
+Getting started with an online counselling appointment is easy. Just follow these 3 simple steps!
+Your Online Counselling appointments should be scheduled through our website in the same way a traditional appointment is booked, choosing your ideal time and day accordantly with our schedule availability.
 
 ### Payment Process
 
-The payment of the session will be made before the online appointment. The client will receive an email, indicating the available payment options. The form of payment is online with counsellor mobile number, credit card, debit, PayPal before the client meets with their online therapist.Once an online session has been initiated, the client and therapist interact via live video for 60 min.
+The payment of the session will be made before the online appointment. 
+The client will receive an email, indicating the available payment options. 
+The form of payment is online with counsellor mobile number, credit card, debit, PayPal before the client meets with their online therapist.
+Once an online session has been initiated, the client and therapist interact via live video for 60 min.
 
 ### System Requirements for Online Counselling
 
-Currently, I uses the Internet Video conferencing platform,  Zoom, or “Skype” for our online counselling sessions. As the client, you will need a reliable high-speed internet connection, telephone, webcam, and Skype. If not yet installed on your computer, you can download and install Skype for free at the following link: http://www.skype.com/intl/en/home. Once Skype is installed, book you appointment, providing your First Name, Last Name, Skype name and best contact number. Alternatively, you can contact us via WhatsApp on (+61) 0434226424 during business hours and provide this information.
+Currently, I uses the Internet Video conferencing platform,  Zoom, or “Skype” for our online counselling sessions. 
+As the client, you will need a reliable high-speed internet connection, telephone, webcam, and Skype. 
+If not yet installed on your computer, you can download and install Skype for free at the following link: http://www.skype.com/intl/en/home.
 
-**Book your online counselling appointment today.**
+ Once Skype is installed, book you appointment, providing your First Name, Last Name, Skype name and best contact number. Alternatively, you can contact us via WhatsApp on (+61) 0434226424 during business hours and provide this information.
+
+**Book your online counselling appointment today
+.**
