@@ -18,11 +18,7 @@ mainpitch:
     My areas of interest include but no limited to Suicide Ideology and
     thoughts, Grief and loss, anxiety, depression, trauma, attachment, life
     adjustment, migration, relationships issues, stress.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: 'Holistic Psychologist, psychotherapist, counsellor and Suicidologist.'
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -52,12 +48,13 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: 'Online Counselling '
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    With a flexible and convenient way to access my counselling services,
+    clients can engage in “real time” whilst maintaining the same level of
+    privacy and confidentiality they would come to expect during any face to
+    face counselling. Remote counselling allows for in-depth therapy by enabling
+    you to communicate online in real time via video and/or voice connection.
 main:
   heading: Great coffee with no compromises
   description: >
