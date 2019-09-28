@@ -31,5 +31,4 @@ If not yet installed on your computer, you can download and install Skype for fr
 
  Once Skype is installed, book you appointment, providing your First Name, Last Name, Skype name and best contact number. Alternatively, you can contact us via WhatsApp on (+61) 0434226424 during business hours and provide this information.
 
-**Book your online counselling appointment today
-.**
+**Book your online counselling appointment today**
