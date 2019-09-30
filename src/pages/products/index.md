@@ -33,6 +33,13 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
+  heading: 'Our Counselling services available online Offers '
+  description: |
+    •       Flexible appointment time
+    •       No GP referral required
+    •       Consultations in Spanish or English
+    •       Affordable prices.
+main:
   heading: Are There Any Limitations?
   description: >
     Although there are some limitations to online counselling due to the absence
@@ -45,13 +52,6 @@ intro:
     can be a successful way to provide expert, personalised counselling therapy
     for a broad spectrum of specific mental health, emotional or behavioural
     concerns.
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
