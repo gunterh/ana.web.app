@@ -5,7 +5,7 @@ image: /img/mariposa.jpg
 heading: Ana Maria Toledo
 subheading: Focus on the trajectory of your mental wellness
 mainpitch:
-  title: About me
+  title: 'About me / Meet your Therapist '
   description: >
     Counsellor and Suicidologist. I provide holistic therapy services to
     guidance you to reach your potential and help you get back on track. 
